@@ -119,4 +119,5 @@ dist
 .yarn/build-state.yml
 .pnp.*
 
-.vscode
+.vscode/
+.github/
